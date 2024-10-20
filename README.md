@@ -1,3 +1,6 @@
+<p align="center"> <img src="Programmer.gif" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Sithuni</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
