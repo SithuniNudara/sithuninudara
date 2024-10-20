@@ -1,4 +1,4 @@
-<p align="center"> <img src="Programmer.gif" /> </p>
+<p align="center"> <img src="Programmer.gif" width="300" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Sithuni</h1>
