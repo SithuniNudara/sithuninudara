@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sithuninudara&label=Profile%20views&color=0e75b6&style=flat" alt="sithuninudara" /> </p>
 
 
-- 🌱 I’m currently learning **Java,Bootstrap, CSS, Java, Java Script, PHP, My SQL, Angular,Java Swing**
+- 🌱 I’m currently learning **Java,Bootstrap, CSS, Java, Java Script, PHP, My SQL, C#,Java Swing**
 
 - 👯 I’m looking to collaborate on **Open Source Software Project**
 
