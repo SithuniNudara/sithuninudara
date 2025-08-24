@@ -40,6 +40,9 @@
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuninudara&" alt="sithuninudara" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithuninudara" alt="sithuninudara" /></a> </p>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sithuninudara&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="sithuninudara trophies"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sithuninudara-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
