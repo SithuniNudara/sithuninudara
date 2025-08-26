@@ -41,8 +41,10 @@
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuninudara&" alt="sithuninudara" /></p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sithuninudara&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="sithuninudara trophies"/>
 </p>
+
 
 
