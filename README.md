@@ -66,16 +66,17 @@ I am passionate about **problem-solving, open-source contribution, and AI-driven
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithuninudara" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <!-- Doughnut Chart for Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuninudara&layout=donut&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuninudara&layout=donut-vertical&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
+
 
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sithuninudara&theme=onedark&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sithuninudara&theme=synthwave&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 
