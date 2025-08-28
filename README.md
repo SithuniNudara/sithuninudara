@@ -63,7 +63,7 @@ I am passionate about **problem-solving, open-source contribution, and AI-driven
   <img src="https://github-readme-stats.vercel.app/api?username=sithuninudara&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithuninudara" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sithuninudara&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuninudara&layout=donut-vertical&theme=tokyonight" alt="Most Used Languages" />
