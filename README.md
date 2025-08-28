@@ -131,7 +131,7 @@ I am passionate about **problem-solving, open-source contribution, and AI-driven
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithuninudara&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SithuniNudara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sithuninudara&theme=dark&hide_border=true" alt="GitHub Streak" />
