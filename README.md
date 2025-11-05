@@ -140,5 +140,5 @@ I am passionate about **problem-solving, open-source contribution, and AI-driven
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SithuniNudara&locale=en&hide_title=false&layout=donut-vertical&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-[![Sithuni Nudara's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SithuniNudara&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sithuni Nudara's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SithuniNudara&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
