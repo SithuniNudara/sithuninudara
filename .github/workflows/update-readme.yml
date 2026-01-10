@@ -1,0 +1,15 @@
+name: Update README
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Updates every 6 hours
+  workflow_dispatch: # Allows manual update
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Starred Projects
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STARRED_PROJECTS"
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://github.com/sithuninudara.atom"
