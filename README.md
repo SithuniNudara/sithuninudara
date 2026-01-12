@@ -34,8 +34,8 @@ I am a dedicated **Software Engineer** from Sri Lanka who loves building impactf
 
 ### 💻 Coding Activity & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuninudara&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=0e75b6" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sithuninudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0e75b6" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithuniNudara&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=0e75b6" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SithuniNudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0e75b6" height="300" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ I am a dedicated **Software Engineer** from Sri Lanka who loves building impactf
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sithuninudara&theme=tokyonight&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=SithuniNudara&theme=tokyonight&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" width="100%" />
 </p>
 
 ---
